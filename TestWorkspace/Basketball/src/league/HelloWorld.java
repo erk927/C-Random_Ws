@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!!");
 		System.out.println("Added new line in branch, need to pull to master branch!!!");
-		
+		System.out.println("New line here");
 	}
 
 }
